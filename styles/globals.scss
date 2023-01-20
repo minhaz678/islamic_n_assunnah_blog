@@ -177,6 +177,16 @@ a {
   background-color: #212438;
 }
 
+@media only screen and (max-width: 400px) {
+
+  #back15 {
+    min-width: 500px;
+  }
+  .welText {
+    min-width: 500px;
+  }
+}
+
 #maint {
   font-family: "Josefin sans", serif;
   text-align: justify;
