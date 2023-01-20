@@ -157,14 +157,13 @@ a {
 }
 
 #h1y {
-  margin-top: 20px;
-  margin-bottom: 15px;
+  padding: 15px;
+  padding-top: 30px;
 }
 /* linear-gradient(135deg,#02aab0 0%,#00cdac 100%) */
 .main-container1 {
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
+  min-height: 90vh;
+  margin-top: 10px;
 }
 
 .welText {
@@ -441,7 +440,6 @@ form #pp {
   border-radius: 5px;
 }
 
-
 // tooltip
 
 /* Tooltip container */
@@ -460,7 +458,7 @@ form #pp {
   top: 90%;
   left: 50%;
   margin-left: -45px; /* Use half of the width (120/2 = 60), to center the tooltip */
- 
+
   /* Position the tooltip text - see examples below! */
   position: absolute;
   z-index: 1;

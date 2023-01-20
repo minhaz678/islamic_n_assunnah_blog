@@ -33,16 +33,16 @@ const about = () => {
               help us accurately convey them to other readers. <br />
               <br />
               You are a valuable part of our Islamic & AsSunnah Blog. Thank you
-              very much for reading our posts regularly. We always try to write all
-              contents saved for you. Your participation in our efforts is the
-              main driver of our motivation. If you would like, you can send your
-              writings to our blog. We will try to publish your excellent
+              very much for reading our posts regularly. We always try to write
+              all contents saved for you. Your participation in our efforts is
+              the main driver of our motivation. If you would like, you can send
+              your writings to our blog. We will try to publish your excellent
               writing. <br /> <br />
               Dear reader, you can send us your minds, thoughts, stories and
-              problems. In order to contact us, you can e-mail (**by just clicking
-              on the mail mailAddress) with your text and required images & files.
-              Yes also, feel free to send us message (**just click the contact
-              button below).
+              problems. In order to contact us, you can e-mail (**by just
+              clicking on the mail mailAddress) with your text and required
+              images & files. Yes also, feel free to send us message (**just
+              click the contact button below).
               <br /> <br />
               <b id="email">
                 MailAddress:
@@ -50,7 +50,7 @@ const about = () => {
                   id="email1"
                   rel="noreferrer"
                   target="_blank"
-                  href="mailto:mk16che011bsmrstu@gmail.com"
+                  href="mailto:islamic.and.asssunnahblog@gmail.com"
                 >
                   {" "}
                   islamic.and.asssunnahblog@gmail.com
@@ -66,7 +66,9 @@ const about = () => {
             </div>
           </div>
         </div>
-      <Footer />
+        <div className="mt-0">
+          <Footer />
+        </div>
       </div>
     </>
   );

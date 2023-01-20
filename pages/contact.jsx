@@ -75,7 +75,7 @@ const contact = () => {
 
   return (
     <>
-      <div id="min2" style={{}}>
+      <div id="min2">
         <h1
           id="h1x"
           style={{
