@@ -9,7 +9,7 @@ import {
   Author,
   Comments,
   CommentsForm,
-  Loader,
+  Loader
 } from "../../components";
 import { AdjacentPosts } from '../../sections';
 
